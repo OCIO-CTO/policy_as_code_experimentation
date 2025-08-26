@@ -1,0 +1,42 @@
+# Prompts and Steps Documentation
+
+This file documents the key prompts, decisions, and steps taken throughout the Policy As Code Experimentation project. It serves as a running log for transparency and reproducibility.
+
+---
+
+## Initial Steps
+- Created repository for experimenting with AI-driven policy-as-code using NEPA XML regulations.
+- Decided to use Databricks for analysis and code generation.
+- Established collaborative, learning-focused approach leveraging AI at each step.
+
+## Housekeeping
+- Added README with project overview and guidance.
+- Added .gitignore, LICENSE, CONTRIBUTING.md, and CODE_OF_CONDUCT.md for best practices.
+
+## Databricks Setup
+- Created notebook in workspace
+- Figured out that I cannot get a file from URL, I would have to upload. _AI initially gave faulty information. I failed to capture the prompt._
+- Figured out how to upload.  _AI initially gave faulty information. I failed to capture the prompt._
+
+### Prompts
+**How do I read and parse my uploaded XML file in Databricks**
+> You can use the following code to read and parse your XML file using xmltodict: 
+```
+[code snipped]
+```
+**Result:** Successfully read and imported xml as a python dict.
+
+**I want to create a README for what we're doing here.**  
+  
+**Result:** AI lacked context to create a README, so I had to provide a detailed summary, then prompted the AI to create it again, which it did, but it was not good.
+
+**That doesn't read like a README. It reads like a bulleted list of what I've already told you.**  
+
+**Result:** AI rewrote README to be more narrative and welcoming.  
+
+**What about for my repo in general? Do I have missing files? Suggest some good housekeeping.**  
+> Recommended adding .gitignore, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, and other best practice files.  
+**Result:** Chose to add items 1-4. Files successfully created.
+
+**Let's also create a "prompts.MD" file (or similar) documenting all the steps we've taken**  
+> Created prompts.md to document key steps, prompts, and decisions.  
