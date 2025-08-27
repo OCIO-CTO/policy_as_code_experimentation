@@ -1,0 +1,11 @@
+# Ignore Python, Databricks, and OS-specific files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+*.log
+*.bak
+.idea/
+.vscode/
