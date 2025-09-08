@@ -1,0 +1,328 @@
+Total actionable rules: 321
+{
+  "id": "1b.1_rule_2",
+  "text": "(a)  The purpose of this part is to outline the procedures by which the U.S. Department of Agriculture (hereinafter USDA or the Department) will integrate the National Environmental Policy Act (NEPA) into decision-making processes. Specifically, this part: describes the process by which USDA determines what actions are subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements.",
+  "metadata": {
+    "citation": "1b.1",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.1.",
+  "logic": {
+    "actor": "Unspecified",
+    "action": "Unspecified",
+    "object": "this part is to outline the procedures by which the U",
+    "condition": "subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements",
+    "deadline": "by which the U",
+    "original_text": "(a)  The purpose of this part is to outline the procedures by which the U.S. Department of Agriculture (hereinafter USDA or the Department) will integrate the National Environmental Policy Act (NEPA) into decision-making processes. Specifically, this part: describes the process by which USDA determines what actions are subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements."
+  },
+  "actionable": true,
+  "code_template": "# Actor: Unspecified\n# Action: Unspecified\n# Object: this part is to outline the procedures by which the U\n# Condition: subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements\n# Deadline: by which the U\ndef rule_action():\n    # TODO: Implement logic for: Unspecified this part is to outline the procedures by which the U\n    pass\n"
+}
+
+Code Template:
+ # Actor: Unspecified
+# Action: Unspecified
+# Object: this part is to outline the procedures by which the U
+# Condition: subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements
+# Deadline: by which the U
+def rule_action():
+    # TODO: Implement logic for: Unspecified this part is to outline the procedures by which the U
+    pass
+
+{
+  "id": "1b.1_rule_4",
+  "text": "(b)  This part sets forth USDA's procedures and practices for implementing NEPA. It further explains USDA's interpretation of certain key terms in NEPA. It does not, nor does it intend to, govern the rights and obligations of any party outside the Federal government. It does, however, establish the procedures under which USDA will typically fulfill its requirements under NEPA.",
+  "metadata": {
+    "citation": "1b.1",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.1.",
+  "logic": {
+    "actor": "Unspecified",
+    "action": "typically fulfill its requirements under NEPA",
+    "object": "implementing NEPA",
+    "condition": null,
+    "deadline": null,
+    "original_text": "(b)  This part sets forth USDA's procedures and practices for implementing NEPA. It further explains USDA's interpretation of certain key terms in NEPA. It does not, nor does it intend to, govern the rights and obligations of any party outside the Federal government. It does, however, establish the procedures under which USDA will typically fulfill its requirements under NEPA."
+  },
+  "actionable": true,
+  "code_template": "# Actor: Unspecified\n# Action: typically fulfill its requirements under NEPA\n# Object: implementing NEPA\ndef rule_action():\n    # TODO: Implement logic for: typically fulfill its requirements under NEPA implementing NEPA\n    pass\n"
+}
+
+Code Template:
+ # Actor: Unspecified
+# Action: typically fulfill its requirements under NEPA
+# Object: implementing NEPA
+def rule_action():
+    # TODO: Implement logic for: typically fulfill its requirements under NEPA implementing NEPA
+    pass
+
+{
+  "id": "1b.1_rule_8",
+  "text": "(d)  NEPA imposes certain procedural requirements on the exercise of USDA's existing legal authority in relevant circumstances. Nothing contained in these procedures is intended, nor should be construed to limit, USDA's other authorities or legal responsibilities.",
+  "metadata": {
+    "citation": "1b.1",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.1.",
+  "logic": {
+    "actor": "Unspecified",
+    "action": "be construed to limit",
+    "object": "limit",
+    "condition": null,
+    "deadline": null,
+    "original_text": "(d)  NEPA imposes certain procedural requirements on the exercise of USDA's existing legal authority in relevant circumstances. Nothing contained in these procedures is intended, nor should be construed to limit, USDA's other authorities or legal responsibilities."
+  },
+  "actionable": true,
+  "code_template": "# Actor: Unspecified\n# Action: be construed to limit\n# Object: limit\ndef rule_action():\n    # TODO: Implement logic for: be construed to limit limit\n    pass\n"
+}
+
+Code Template:
+ # Actor: Unspecified
+# Action: be construed to limit
+# Object: limit
+def rule_action():
+    # TODO: Implement logic for: be construed to limit limit
+    pass
+
+{
+  "id": "1b.2_rule_2",
+  "text": "(a)  It is the policy of USDA that all USDA subcomponents' policies and programs shall be planned, developed, and implemented to comply with Congress' directives in NEPA, as amended by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions.",
+  "metadata": {
+    "citation": "1b.2",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.2.",
+  "logic": {
+    "actor": "Unspecified",
+    "action": "be planned",
+    "object": "2023",
+    "condition": null,
+    "deadline": "by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions",
+    "original_text": "(a)  It is the policy of USDA that all USDA subcomponents' policies and programs shall be planned, developed, and implemented to comply with Congress' directives in NEPA, as amended by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions."
+  },
+  "actionable": true,
+  "code_template": "# Actor: Unspecified\n# Action: be planned\n# Object: 2023\n# Deadline: by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions\ndef rule_action():\n    # TODO: Implement logic for: be planned 2023\n    pass\n"
+}
+
+Code Template:
+ # Actor: Unspecified
+# Action: be planned
+# Object: 2023
+# Deadline: by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions
+def rule_action():
+    # TODO: Implement logic for: be planned 2023
+    pass
+
+{
+  "id": "1b.2_rule_3",
+  "text": "(1) The Under Secretary of Natural Resources and Environment (NRE) is responsible for ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department.",
+  "metadata": {
+    "citation": "1b.2",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.2.",
+  "logic": {
+    "actor": "NEPA regulations are consistent with NEPA and",
+    "action": "coordinate compliance for the Department",
+    "object": "ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department",
+    "condition": null,
+    "deadline": null,
+    "original_text": "(1) The Under Secretary of Natural Resources and Environment (NRE) is responsible for ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department."
+  },
+  "actionable": true,
+  "code_template": "# Actor: NEPA regulations are consistent with NEPA and\n# Action: coordinate compliance for the Department\n# Object: ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department\ndef rule_action():\n    # TODO: Implement logic for: coordinate compliance for the Department ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department\n    pass\n"
+}
+
+Code Template:
+ # Actor: NEPA regulations are consistent with NEPA and
+# Action: coordinate compliance for the Department
+# Object: ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department
+def rule_action():
+    # TODO: Implement logic for: coordinate compliance for the Department ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department
+    pass
+
+
+{
+  "id": "1b.1_rule_2",
+  "text": "(a)  The purpose of this part is to outline the procedures by which the U.S. Department of Agriculture (hereinafter USDA or the Department) will integrate the National Environmental Policy Act (NEPA) into decision-making processes. Specifically, this part: describes the process by which USDA determines what actions are subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements.",
+  "metadata": {
+    "citation": "1b.1",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.1.",
+  "logic": {
+    "actor": "Unspecified",
+    "action": "Unspecified",
+    "object": "this part is to outline the procedures by which the U",
+    "condition": "subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements",
+    "deadline": "by which the U",
+    "original_text": "(a)  The purpose of this part is to outline the procedures by which the U.S. Department of Agriculture (hereinafter USDA or the Department) will integrate the National Environmental Policy Act (NEPA) into decision-making processes. Specifically, this part: describes the process by which USDA determines what actions are subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements."
+  },
+  "actionable": true,
+  "code_template": "# Actor: Unspecified\n# Action: Unspecified\n# Object: this part is to outline the procedures by which the U\n# Condition: subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements\n# Deadline: by which the U\ndef rule_action():\n    # TODO: Implement logic for: Unspecified this part is to outline the procedures by which the U\n    pass\n"
+}
+
+Code Template:
+ # Actor: Unspecified
+# Action: Unspecified
+# Object: this part is to outline the procedures by which the U
+# Condition: subject to NEPA's procedural requirements and the applicable level of NEPA review; ensures that relevant environmental information is identified and considered early in the process in order to ensure informed decision making; enables USDA to conduct coordinated, consistent, predictable and timely environmental reviews; reduces unnecessary burdens and delays; and implements NEPA's mandates regarding lead and cooperating agency roles, page and time limits, and sponsor preparation of environmental assessments and environmental impact statements
+# Deadline: by which the U
+def rule_action():
+    # TODO: Implement logic for: Unspecified this part is to outline the procedures by which the U
+    pass
+
+{
+  "id": "1b.1_rule_4",
+  "text": "(b)  This part sets forth USDA's procedures and practices for implementing NEPA. It further explains USDA's interpretation of certain key terms in NEPA. It does not, nor does it intend to, govern the rights and obligations of any party outside the Federal government. It does, however, establish the procedures under which USDA will typically fulfill its requirements under NEPA.",
+  "metadata": {
+    "citation": "1b.1",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.1.",
+  "logic": {
+    "actor": "Unspecified",
+    "action": "typically fulfill its requirements under NEPA",
+    "object": "implementing NEPA",
+    "condition": null,
+    "deadline": null,
+    "original_text": "(b)  This part sets forth USDA's procedures and practices for implementing NEPA. It further explains USDA's interpretation of certain key terms in NEPA. It does not, nor does it intend to, govern the rights and obligations of any party outside the Federal government. It does, however, establish the procedures under which USDA will typically fulfill its requirements under NEPA."
+  },
+  "actionable": true,
+  "code_template": "# Actor: Unspecified\n# Action: typically fulfill its requirements under NEPA\n# Object: implementing NEPA\ndef rule_action():\n    # TODO: Implement logic for: typically fulfill its requirements under NEPA implementing NEPA\n    pass\n"
+}
+
+Code Template:
+ # Actor: Unspecified
+# Action: typically fulfill its requirements under NEPA
+# Object: implementing NEPA
+def rule_action():
+    # TODO: Implement logic for: typically fulfill its requirements under NEPA implementing NEPA
+    pass
+
+{
+  "id": "1b.1_rule_8",
+  "text": "(d)  NEPA imposes certain procedural requirements on the exercise of USDA's existing legal authority in relevant circumstances. Nothing contained in these procedures is intended, nor should be construed to limit, USDA's other authorities or legal responsibilities.",
+  "metadata": {
+    "citation": "1b.1",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.1.",
+  "logic": {
+    "actor": "Unspecified",
+    "action": "be construed to limit",
+    "object": "limit",
+    "condition": null,
+    "deadline": null,
+    "original_text": "(d)  NEPA imposes certain procedural requirements on the exercise of USDA's existing legal authority in relevant circumstances. Nothing contained in these procedures is intended, nor should be construed to limit, USDA's other authorities or legal responsibilities."
+  },
+  "actionable": true,
+  "code_template": "# Actor: Unspecified\n# Action: be construed to limit\n# Object: limit\ndef rule_action():\n    # TODO: Implement logic for: be construed to limit limit\n    pass\n"
+}
+
+Code Template:
+ # Actor: Unspecified
+# Action: be construed to limit
+# Object: limit
+def rule_action():
+    # TODO: Implement logic for: be construed to limit limit
+    pass
+
+{
+  "id": "1b.2_rule_2",
+  "text": "(a)  It is the policy of USDA that all USDA subcomponents' policies and programs shall be planned, developed, and implemented to comply with Congress' directives in NEPA, as amended by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions.",
+  "metadata": {
+    "citation": "1b.2",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.2.",
+  "logic": {
+    "actor": "Unspecified",
+    "action": "be planned",
+    "object": "2023",
+    "condition": null,
+    "deadline": "by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions",
+    "original_text": "(a)  It is the policy of USDA that all USDA subcomponents' policies and programs shall be planned, developed, and implemented to comply with Congress' directives in NEPA, as amended by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions."
+  },
+  "actionable": true,
+  "code_template": "# Actor: Unspecified\n# Action: be planned\n# Object: 2023\n# Deadline: by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions\ndef rule_action():\n    # TODO: Implement logic for: be planned 2023\n    pass\n"
+}
+
+Code Template:
+ # Actor: Unspecified
+# Action: be planned
+# Object: 2023
+# Deadline: by the Fiscal Responsibility Act of 2023, with the understanding that NEPA is a purely procedural statute that imposes no substantive environmental obligations or restrictions
+def rule_action():
+    # TODO: Implement logic for: be planned 2023
+    pass
+
+{
+  "id": "1b.2_rule_3",
+  "text": "(1) The Under Secretary of Natural Resources and Environment (NRE) is responsible for ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department.",
+  "metadata": {
+    "citation": "1b.2",
+    "effective_date": null,
+    "authority": {
+      "I": "et seq.",
+      "#text": "5 U.S.C. 301; 42 U.S.C. 4321 ; E.O. 11514, 3 CFR, 1966-1970 Comp., p. 902, as amended by E.O. 11991, 3 CFR, 1978 Comp., p. 123; E.O. 12114, 3 CFR, 1980 Comp., p. 356; 40 CFR 1507.3."
+    }
+  },
+  "explanation": "Candidate rule extracted from section 1b.2.",
+  "logic": {
+    "actor": "NEPA regulations are consistent with NEPA and",
+    "action": "coordinate compliance for the Department",
+    "object": "ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department",
+    "condition": null,
+    "deadline": null,
+    "original_text": "(1) The Under Secretary of Natural Resources and Environment (NRE) is responsible for ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department."
+  },
+  "actionable": true,
+  "code_template": "# Actor: NEPA regulations are consistent with NEPA and\n# Action: coordinate compliance for the Department\n# Object: ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department\ndef rule_action():\n    # TODO: Implement logic for: coordinate compliance for the Department ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department\n    pass\n"
+}
+
+Code Template:
+ # Actor: NEPA regulations are consistent with NEPA and
+# Action: coordinate compliance for the Department
+# Object: ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department
+def rule_action():
+    # TODO: Implement logic for: coordinate compliance for the Department ensuring that these USDA NEPA regulations are consistent with NEPA and will coordinate compliance for the Department
+    pass
+
